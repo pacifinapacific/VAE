@@ -1,5 +1,5 @@
 # VAE
-# Variatonal Autoencoder(MNIST) by pytorch
+# Variatonal AutoEncoder(MNIST) by pytorch
 pytorch ver==0.4
 
 # Train
